@@ -49,6 +49,7 @@
 ### **XSS,CSRF**
 
 **XSS** - *Cross-Site Scripting* — «межсайтовый скриптинг».
+
 **CSRF** - *Cross-Site Request Forgery* - «межсайтовая подделка запроса».
 
 #### Виды XSS
@@ -64,6 +65,7 @@
 *Reflected* - XSS-атака срабатывает, когда пользователь переходит по специально подготовленной ссылке
 
 Полезные тулзы для поиска : `XSSHunter` `Burp Collaborator` `KnoXSS` `bXSS Hunter` `ezXSS`
+
 [Link XSS git](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XSS%20Injection#blind-xss)
 
 [IT wiki](http://itsecwiki.org/index.php/Xss#.D0.9D.D0.B0.D1.85.D0.BE.D0.B6.D0.B4.D0.B5.D0.BD.D0.B8.D0.B5_XSS)
@@ -157,9 +159,6 @@ SSL (англ. Secure Sockets Layer — уровень защищённых со
 [Обзор современных инструментов анализа сетевого трафика](https://www.ispras.ru/preprints/docs/prep_27_2014.pdf)
 
 [wiki](https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%82%D0%BE%D1%80_%D1%82%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B0)
-
-https://www.ispras.ru/preprints/docs/prep_27_2014.pdf
-
 ### **Просмотр процессов через терминал и командую строку**
 
 `ps aux` - контроль текущих процессов
