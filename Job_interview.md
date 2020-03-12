@@ -25,7 +25,7 @@
 
 ### **Тройное рукопожатие**
 
-![Handshake](./handshake3.png)
+![Handshake](https://github.com/Boringdreams/Job-interview/blob/master/png/handshake3.png)
 
 ### **Список заголовков HTTP**
 
